@@ -44,3 +44,5 @@ def predict_datapoint():
 
 if __name__=="__main__":
     app.run(host="0.0.0.0")  
+
+ ## to run this flask app after excuting it press http://127.0.0.1:5000/ and add predictdata to the adress
